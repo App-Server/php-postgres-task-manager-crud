@@ -1,0 +1,38 @@
+* {
+    font-family: sans-serif;
+    font-size: 18px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+.nav-link {
+    color: white;
+}
+
+.nav-link:hover {
+    color: white;
+}
+
+.navbar-brand {
+    color: white;
+}
+
+.navbar-brand:hover {
+    color: white;
+}
+
+.navbar {
+   background-color: #001042;;
+}
+
+.shadow {
+    width: 18rem;
+}
+
+.nav-link:hover {
+    color: white;
+}
+
+.nav-link:active {
+    color: white;
+}
+
